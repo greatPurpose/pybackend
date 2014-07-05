@@ -1,8 +1,0 @@
-Django==2.1.11
-coverage==4.5.4
-djangorestframework==3.9.4
-django-cors-headers==2.4.0
-flake8==3.6.0
-flake8-bugbear==19.3.0
-psycopg2==2.7.7
-# git+https://github.com/amirkargar/protecton_score.git
