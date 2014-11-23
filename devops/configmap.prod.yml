@@ -1,8 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: protecton-backend
-data:
-  DB_HOST: "10.38.192.3"
-  DB_NAME: protecton-production
-  DB_USER: postgres
